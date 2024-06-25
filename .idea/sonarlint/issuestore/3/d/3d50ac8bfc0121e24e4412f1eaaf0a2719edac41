@@ -1,0 +1,77 @@
+
+r
+java:S3740!"/Provide the parametrized type for this generic.(ä«š¦8İÅÿï„2J$9d7ee0f3-9599-4108-80d3-cfd5d5f61bb1
+r
+java:S3740%"/Provide the parametrized type for this generic.(‡¾8İÅÿï„2J$4f40eb91-250b-4fdf-8e06-25de25137d95
+w
+java:S3740&"/Provide the parametrized type for this generic.(Òª„ûÿÿÿÿ8İÅÿï„2J$b5e40e2f-4928-45a4-be53-ec63ff74425e
+r
+java:S3740'"/Provide the parametrized type for this generic.(îİ§Å8İÅÿï„2J$acf52be9-3c93-4932-ad60-4925619a409c
+r
+java:S3740("/Provide the parametrized type for this generic.(«–Ê8İÅÿï„2J$41afb8b2-5778-4ccd-985a-3b474dadecb8
+r
+java:S3740)"/Provide the parametrized type for this generic.(Æ¦Œê8İÅÿï„2J$30a0dd88-dcc1-4f87-8839-e710ea4c2aff
+w
+java:S3740*"/Provide the parametrized type for this generic.(¾¸ÿàúÿÿÿÿ8İÅÿï„2J$16c5a9d8-cdf6-4d5f-8798-f4b1c39c671a
+s
+java:S3740¥"/Provide the parametrized type for this generic.(Ÿœ•¨8É÷ô€…2J$b71e3d59-335e-4dd6-9edf-0839159b0061
+Ÿ
+java:S1104 "WMake txtItemCode a static final constant or non-public and provide accessors if needed.(øÜÜ¡üÿÿÿÿ8ŞÅÿï„2J$b940b159-ec1c-405f-8d75-ea0d8f343a6f
+–
+java:S1104!"SMake cmbSize a static final constant or non-public and provide accessors if needed.(ä«š¦8ŞÅÿï„2J$852a2db7-12b8-4ea2-aa41-f641989f27c6
+›
+java:S1104""SMake txtDesc a static final constant or non-public and provide accessors if needed.(ÀĞÓ¿ûÿÿÿÿ8ŞÅÿï„2J$c4de1819-537f-4e6d-993b-6e357e498d5e
+—
+java:S1104#"TMake txtStock a static final constant or non-public and provide accessors if needed.(ªÀ—µ8ßÅÿï„2J$c33a7ed8-a3f7-44a1-a4be-ad8c163bf405
+œ
+java:S1104$"TMake txtPrice a static final constant or non-public and provide accessors if needed.(˜¹•ıÿÿÿÿ8ßÅÿï„2J$ba1fba14-392b-41aa-959c-8efa63e331c5
+–
+java:S1104%"SMake tblItem a static final constant or non-public and provide accessors if needed.(‡¾8ßÅÿï„2J$ff4c3458-b6cf-4010-a1d1-8efc095aaf2f
+Ÿ
+java:S1104&"WMake colItemCode a static final constant or non-public and provide accessors if needed.(Òª„ûÿÿÿÿ8ßÅÿï„2J$23f83ca3-c7b8-4a7a-86dd-36de9db13985
+–
+java:S1104'"SMake colDesc a static final constant or non-public and provide accessors if needed.(îİ§Å8ßÅÿï„2J$ab6defe4-5926-4920-a8d5-fee4a54f31b7
+–
+java:S1104("SMake colSize a static final constant or non-public and provide accessors if needed.(«–Ê8ßÅÿï„2J$18957e86-1544-4838-9aa9-ba12714c0d4a
+—
+java:S1104)"TMake colPrice a static final constant or non-public and provide accessors if needed.(Æ¦Œê8ßÅÿï„2J$8a58e436-c4f4-4902-8e48-06f812c4c163
+œ
+java:S1104*"TMake colStock a static final constant or non-public and provide accessors if needed.(¾¸ÿàúÿÿÿÿ8ßÅÿï„2J$349285af-9bf2-427a-8260-fb2c729e4747
+u
+java:S1172,"2Remove this unused method parameter "actionEvent".(ÎŠä’8øô€…2J$5d4b9771-6ef7-4808-a5dd-423b2fb7b54f
+u
+java:S1172T"2Remove this unused method parameter "actionEvent".(áÄ´ü8•øô€…2J$f09cd513-efe1-4711-90c4-5555a7ac5830
+u
+java:S1172`"2Remove this unused method parameter "actionEvent".(Œ“‘8˜øô€…2J$834564a9-1a72-4f90-933b-4466e541e2fa
+z
+java:S1172k"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8œøô€…2J$f26ef143-357e-4ba5-8d40-3b7fe57f8d20
+d
+java:S2129¦" Remove this "String" constructor(ŸÍã‘8Æÿï„2J$d6090ce6-96d5-40f3-b068-d240d09c1a17
+d
+java:S2129§" Remove this "String" constructor(ÔÍÒÓ8Æÿï„2J$0438cc66-a74e-40a9-8486-039f8f267c7c
+i
+java:S2129¨" Remove this "String" constructor(ÅÇ°üıÿÿÿÿ8Æÿï„2J$e35bb086-a525-4b48-99e7-5b6a10bb9b1c
+d
+java:S2129©" Remove this "String" constructor(ÙÈÇ8Æÿï„2J$e167ca9e-dcdb-4c5d-9a18-281cf28d8df2
+d
+java:S2129ª" Remove this "String" constructor(˜ø¬8Æÿï„2J$860a1450-6548-4e34-810f-5719c9eb1bfd
+d
+java:S2129«" Remove this "String" constructor(œÎÈç8Æÿï„2J$1849cc85-4743-4e82-8fff-8c39993ed86d
+c
+java:S2129¬" Remove this "String" constructor(Úß¶k8Æÿï„2J$d608b3e1-51ba-4791-8d90-ce17c1d5b888
+i
+java:S2129­" Remove this "String" constructor(‰Ì›§ıÿÿÿÿ8Æÿï„2J$ff96b7b3-a273-4987-8d3f-63b75c4125bb
+d
+java:S2129®" Remove this "String" constructor(¯ÅÆİ8±øô€…2J$16d4ea27-ad7f-40f1-b043-7f11b0607393
+u
+java:S1602µ",Remove useless curly braces around statement(«‰±øÿÿÿÿ8µøô€…2J$750c7b1a-e8b9-4101-844a-05d961654d9e
+x
+java:S1128"5Remove this unused import 'org.example.dto.Employee'.(†ò‘ñ8•˜ğ„2J$96e797ae-d4e3-49a1-9786-0b268619fdd8
+
+java:S1128">Remove this unused import 'org.example.entity.EmployeeEntity'.(„ù»ã8•˜ğ„2J$23d8b8fe-0f3b-4747-8f95-ba85e73633b2
+x
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8•˜ğ„2J$4266ddc4-3ffb-4039-8730-19fbdbeef515
+z
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8•˜ğ„2J$19b7e0c3-3505-425b-a0ab-dacb33326615
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8–˜ğ„2J$c07ea029-d260-442a-8138-e943fd46401c

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<GridPane xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controller.login.LoginController">
+   <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="590.0" prefWidth="724.0">
+         <children>
+            <ImageView fitHeight="342.0" fitWidth="606.0" layoutX="123.0" layoutY="124.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg" />
+               </image>
+            </ImageView>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#32404a" height="128.0" stroke="BLACK" strokeType="INSIDE" width="729.0" />
+            <Label layoutX="156.0" layoutY="16.0" prefHeight="96.0" prefWidth="418.0" text="Clothify Store" textAlignment="CENTER" textFill="#e8ecef">
+               <font>
+                  <Font name="System Bold Italic" size="65.0" />
+               </font>
+            </Label>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#32404a" height="128.0" layoutX="-7.0" layoutY="462.0" stroke="BLACK" strokeType="INSIDE" width="736.0" />
+            <ImageView fitHeight="366.0" fitWidth="223.0" layoutY="128.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/COTTON-ISLAND-1-212-scaled.png" />
+               </image>
+            </ImageView>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#e1e1e1" height="232.0" layoutX="280.0" layoutY="168.0" stroke="BLACK" strokeType="INSIDE" width="383.0" />
+            <JFXTextField fx:id="txtEmail" focusColor="#757fab" layoutX="339.0" layoutY="192.0" prefHeight="39.0" prefWidth="235.0" promptText="Enter Email" unFocusColor="#a4a4a4">
+               <font>
+                  <Font name="System Bold" size="16.0" />
+               </font>
+            </JFXTextField>
+            <JFXButton layoutX="412.0" layoutY="329.0" onAction="#btnLoginOnAction" prefHeight="29.0" prefWidth="120.0" style="-fx-background-color: #1a237e;" text="Login" textFill="#e8ecef">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </JFXButton>
+            <JFXPasswordField fx:id="txtPassword" focusColor="#757fab" layoutX="339.0" layoutY="265.0" prefHeight="39.0" prefWidth="235.0" promptText="Enter Password" unFocusColor="#a4a4a4">
+               <font>
+                  <Font name="System Bold" size="16.0" />
+               </font>
+            </JFXPasswordField>
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>

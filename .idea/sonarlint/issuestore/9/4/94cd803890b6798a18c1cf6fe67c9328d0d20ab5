@@ -1,0 +1,103 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(ÊâŠ±8Ù±€…2J$35de7f1b-225c-4345-8810-cb5b7bf47b92
+w
+java:S3740""/Provide the parametrized type for this generic.(ÇÊÚõøÿÿÿÿ8Ú±€…2J$d4d70db7-9892-4bd7-a6cd-1a3e277defdc
+w
+java:S3740#"/Provide the parametrized type for this generic.(¿ƒÛşÿÿÿÿ8Ú±€…2J$aa1cf2b1-142d-4e99-bc4f-d9acad9d3017
+q
+java:S3740$"/Provide the parametrized type for this generic.(˜«Òe8Ú±€…2J$8d87dae7-50e8-433f-95ca-fa0b68462ded
+r
+java:S3740%"/Provide the parametrized type for this generic.(½˜æ–8Ú±€…2J$fe7d3b3e-9f76-4356-aad7-cb464730c004
+r
+java:S3740&"/Provide the parametrized type for this generic.(§³¸İ8Ú±€…2J$c1f8b658-7628-4cef-b2df-be213012a683
+r
+java:S3740'"/Provide the parametrized type for this generic.(Ç¡¥”8Ú±€…2J$00bb0273-4d49-4b66-9186-5e293c600db3
+r
+java:S3740("/Provide the parametrized type for this generic.(´éğë8Ú±€…2J$79e8b611-d740-435b-ab7c-8e54c1fd7c25
+r
+java:S3740)"/Provide the parametrized type for this generic.(Ã‹äÄ8Ú±€…2J$2ee7d6b1-fcf2-47fa-acd8-ab4bf22fa212
+r
+java:S3740*"/Provide the parametrized type for this generic.(¯ÿı°8Ú±€…2J$98e220c6-a42c-4cad-8a3b-9196119743ae
+r
+java:S3740+"/Provide the parametrized type for this generic.(ú¶øõ8Ú±€…2J$69698fe4-e9cd-4455-b56d-509f890db97a
+r
+java:S3740,"/Provide the parametrized type for this generic.(ƒäÆ8Ú±€…2J$c5608aef-c9b4-45f4-bae6-831364dec04a
+q
+java:S3740-"/Provide the parametrized type for this generic.(ƒ˜’M8Ú±€…2J$290ed765-b9f5-43a8-8bf4-b6fffa8307c5
+w
+java:S3740."/Provide the parametrized type for this generic.(ıê•µÿÿÿÿÿ8Û±€…2J$964ebb42-d61b-4422-a023-f3b57a3340e0
+r
+java:S3740l"/Provide the parametrized type for this generic.(Ÿœ•¨8Û±€…2J$463a9578-bf68-4e27-8ec9-ba46be3e787a
+w
+java:S3740s"/Provide the parametrized type for this generic.(È´ÖÂûÿÿÿÿ8Û±€…2J$0eb143b7-15bb-4636-abb5-928f96e59e01
+œ
+java:S1104"TMake txtEmpId a static final constant or non-public and provide accessors if needed.(¶Š³½ıÿÿÿÿ8İ±€…2J$4b6aea33-9876-4316-b708-f5a412e0f05a
+š
+java:S1104"WMake cmbEmpTitle a static final constant or non-public and provide accessors if needed.(ÊâŠ±8Ş±€…2J$8207347e-cea3-4407-947f-6264a69cf5fe
+
+java:S1104"VMake txtEmpName a static final constant or non-public and provide accessors if needed.(Œõøüÿÿÿÿ8Ş±€…2J$8555553c-038d-4be9-a817-64440d637b22
+›
+java:S1104"SMake dateDob a static final constant or non-public and provide accessors if needed.(â×Óİşÿÿÿÿ8Ş±€…2J$224b603c-234f-4f47-9aa5-f9abbabe43e0
+˜
+java:S1104"UMake txtSalary a static final constant or non-public and provide accessors if needed.(¥ –º8Ş±€…2J$b760902c-f9b1-4a06-8484-2a727eb574bc
+™
+java:S1104"VMake txtAddress a static final constant or non-public and provide accessors if needed.(¥ –º8Ş±€…2J$f649888d-d66e-42a8-98c0-92a01e86de01
+œ
+java:S1104 "TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8Ş±€…2J$4c6b3260-320b-4fd7-ae91-5b96c1dc2ea4
+Ÿ
+java:S1104!"WMake txtPassword a static final constant or non-public and provide accessors if needed.(¬ä©Óÿÿÿÿÿ8Ş±€…2J$36268b48-83fb-4d4f-bd4b-e28ed3077b1b
+ 
+java:S1104""XMake tblEmployee1 a static final constant or non-public and provide accessors if needed.(ÇÊÚõøÿÿÿÿ8Ş±€…2J$034b50fa-2a66-4ffe-ab1c-5b06d4bb78c1
+œ
+java:S1104#"TMake colEmpId a static final constant or non-public and provide accessors if needed.(¿ƒÛşÿÿÿÿ8Ş±€…2J$2840b71d-57a8-4803-b2fe-ed8df80426d6
+™
+java:S1104$"WMake colEmpTitle a static final constant or non-public and provide accessors if needed.(˜«Òe8Ş±€…2J$75deeb4b-8b0f-4b48-82f7-d3dc283e4c68
+™
+java:S1104%"VMake colEmpName a static final constant or non-public and provide accessors if needed.(½˜æ–8Ş±€…2J$761d5022-962d-4a0f-97a1-9e644bc55027
+•
+java:S1104&"RMake colDob a static final constant or non-public and provide accessors if needed.(§³¸İ8Ş±€…2J$8c1ae95c-75de-4eff-baa7-10ec4af0e7db
+›
+java:S1104'"XMake tblEmployee2 a static final constant or non-public and provide accessors if needed.(Ç¡¥”8Ş±€…2J$c41751e2-ba65-43d2-8a46-9bc56b341cc6
+›
+java:S1104("XMake colEmpIdTbl2 a static final constant or non-public and provide accessors if needed.(´éğë8Ş±€…2J$e19e9ff6-5c37-41e7-8920-5fe47bea2309
+˜
+java:S1104)"UMake colSalary a static final constant or non-public and provide accessors if needed.(Ã‹äÄ8Ş±€…2J$ed82f719-9931-4ff7-a5cf-4a9cb5f1a5cd
+™
+java:S1104*"VMake colAddress a static final constant or non-public and provide accessors if needed.(¯ÿı°8Ş±€…2J$01ad24ba-4484-47fb-8dc6-40fa717240ff
+–
+java:S1104+"SMake colRole a static final constant or non-public and provide accessors if needed.(ú¶øõ8Ş±€…2J$d0da9c72-3aea-435e-90a6-2fb39ef79b27
+—
+java:S1104,"TMake colEmail a static final constant or non-public and provide accessors if needed.(ƒäÆ8Ş±€…2J$453363a8-978a-4c5c-b7a5-2c4285d8bfaf
+™
+java:S1104-"WMake colPassword a static final constant or non-public and provide accessors if needed.(ƒ˜’M8Ş±€…2J$e5564ca1-a3cd-49e9-9b73-1c5f183d5f11
+›
+java:S1104."SMake cmbRole a static final constant or non-public and provide accessors if needed.(ıê•µÿÿÿÿÿ8Ş±€…2J$2b0b86fb-ffb0-4015-9f26-5dbfe382ebcb
+k
+java:S1659"(Declare "txtAddress" on a separate line.(¥ –º8ª±€…2J$8f16dcf7-01a3-44a4-b183-5b89f0ac106b
+o
+java:S1602J",Remove useless curly braces around statement(á¨ÔÈ8´±€…2J$0f2cca55-bf24-48ee-8c6b-9c2a03021d3a
+o
+java:S1602\",Remove useless curly braces around statement(á¨ÔÈ8¶±€…2J$297994bd-30b8-4cca-b8a9-90f0f15828f1
+h
+java:S2129m" Remove this "String" constructor(Ÿ½¶Õúÿÿÿÿ8º±€…2J$ad8d45ae-1305-4b71-bc2b-40f715dda973
+c
+java:S2129n" Remove this "String" constructor(÷ï×Ë8»±€…2J$aa38e53e-3b0e-4b3f-917b-6a791abe3377
+c
+java:S2129o" Remove this "String" constructor(ÔŸ”8»±€…2J$ad43992f-11cf-42c0-bb91-56a07ae19ad1
+c
+java:S2129t" Remove this "String" constructor(·è›š8¼±€…2J$095f3cb2-c195-495c-bc5e-a5f25297746b
+h
+java:S2129u" Remove this "String" constructor(ƒÒçıÿÿÿÿ8¼±€…2J$483f2903-f005-4b77-97ab-43825534e57a
+z
+java:S1172y"2Remove this unused method parameter "actionEvent".(ÜÃèåøÿÿÿÿ8¾±€…2J$8f593cf2-06f8-4bf1-b28d-60f9bfe25f5c
+v
+java:S1172«"2Remove this unused method parameter "actionEvent".(áÄ´ü8Ç±€…2J$ba1986c0-2f60-49e6-a13d-857716a872df
+v
+java:S1172¾"2Remove this unused method parameter "actionEvent".(Œ“‘8Ë±€…2J$93a25d49-ba5b-450d-b1c7-26a529db4eab
+{
+java:S1172Ë"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8Íğß€…2J$a89a5267-f721-4230-9476-d6ccff5764b7
+x
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ú¢Ú€…2J$f2971030-7606-400d-9b42-ca89c2b31599
+z
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ú¢Ú€…2J$9c410c98-df45-435b-a819-3379806901fc
